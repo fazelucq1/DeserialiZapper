@@ -1,0 +1,10 @@
+# No external dependencies required.
+# This tool uses Python standard library only:
+#   - tkinter      (GUI)
+#   - http.server  (Web UI on 127.0.0.1:8990)
+#   - base64, json, struct, re, urllib (cookie parsing)
+#   - threading, subprocess (ysoserial execution)
+#
+# Optional (for ysoserial tab):
+#   - Java JDK 8+  (install via: sudo apt install default-jdk)
+#   - ysoserial-all.jar (auto-downloadable from tool GUI)
