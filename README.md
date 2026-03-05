@@ -1,6 +1,6 @@
 #  💉DeserialiZapper
 
-A GUI tool for analyzing, tampering, and re-encoding session cookies in **PortSwigger Web Security Academy** labs. Built with Python + Tkinter, zero external dependencies.
+A lightweight GUI tool for analyzing and re-encoding session cookies, purpose-built for the Insecure Deserialization track of the PortSwigger Web Security Academy.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey)
