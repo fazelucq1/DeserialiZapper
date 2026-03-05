@@ -2,7 +2,7 @@
 """
 PortSwigger Cookie Analyzer & Tampering Tool
 Versione: 2.0 - GUI Tkinter + Web UI su 127.0.0.1:8990
-Autore: CyberSec Tool Generator
+Autore: fazelucq
 USO: python tool.py
 """
 
