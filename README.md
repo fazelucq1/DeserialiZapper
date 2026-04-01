@@ -44,7 +44,7 @@ A lightweight GUI tool for analyzing and re-encoding session cookies, purpose-bu
 ### Install & Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/portswigger-cookie-analyzer.git
+git clone https://github.com/fazelucq1/portswigger-cookie-analyzer.git
 cd portswigger-cookie-analyzer
 python tool.py
 ```
